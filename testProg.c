@@ -25,4 +25,5 @@ int main(int argc, char * argv[]) {
 	class_stats();
 	
 	printf("\nThe last allocation was: %d\n",max);
+	return 0;
 }
